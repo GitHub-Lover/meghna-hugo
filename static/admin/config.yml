@@ -1,7 +1,7 @@
 backend:
-  name: git-gateway
+  name: meghna-hugo
   branch: master # Branch to update (optional; defaults to master)
-media_folder: static/img
+media_folder: images
 public_folder: /img
 collections:
   - name: 'blog'
